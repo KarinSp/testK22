@@ -1,0 +1,12 @@
+{
+  "name": "karinsp-testk22",
+  "version": "1.0.0",
+  "description": "KarinSp-testK22",
+  "repositoryLayout": {
+    "formatVersion": 4,
+    "format": "json",
+    "objectStorage": "plain",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true"
+  }
+}
